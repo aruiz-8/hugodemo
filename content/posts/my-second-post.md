@@ -1,7 +1,7 @@
 ---
 title: "My Second Post"
 date: 2022-10-31T01:34:27Z
-draft: true
+draft: false
 ---
 
-### This is a second test post being edited on Github.
+### This is a second test post being edited on Github.qwqw
